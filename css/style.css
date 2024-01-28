@@ -1,0 +1,75 @@
+table {
+    width: 100%;
+}
+
+caption {
+    font-weight: bold;
+}
+
+table, tr, td, th {
+    border: 1px  solid black;
+    border-collapse: collapse;
+}
+
+.monday {
+    text-align: center;
+    height: 90px;
+}
+
+.tuesday {
+    text-align: center;
+    height: 90px;
+}
+
+.wednesday {
+    text-align: center;
+    height: 120px;
+}
+
+.thusday {
+    text-align: center;
+    height: 90px;
+}
+
+.friday {
+    text-align: center;
+    height: 100px;
+}
+
+.days_of_the_week {
+    width: 40px;
+    padding: 7px;
+    background-color: rgb(101, 187, 223);
+}
+
+thead {
+    background-color: rgb(59, 185, 59);
+}
+
+.blue {
+    background-color: rgb(26, 133, 255);
+}
+
+.green {
+    background-color:rgb(59, 185, 59) ;
+}
+
+.dark_blue {
+    background-color: rgba(11, 11, 193, 0.705);
+}
+
+.dark_yellow {
+    background-color: rgb(231, 176, 105);
+}
+
+.yellow {
+    background-color: rgb(230, 236, 43);
+}
+
+.red {
+    background-color: rgb(239, 16, 16);
+}
+
+span {
+    color: rgb(255, 204, 0);
+}
